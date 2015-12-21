@@ -9,9 +9,9 @@ body {
 	font: 12px Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #1c75e7;
-	background: #b6b1ff;
-	background-image:url(image/logo.png);
-	background-repeat:repeat-x;
+	background: #cccccc;
+	background-image:url("image/logo.png");
+	background-repeat:no-repeat-x;
 }
 *
 {

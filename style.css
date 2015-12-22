@@ -1,7 +1,5 @@
 /* A Free Design by Bryant Smith (bryantsmith.com) */
 
-
-
 body {
 	margin: 0;
 	padding: 0;
@@ -10,8 +8,8 @@ body {
 	font-size: 13px;
 	color: #1c75e7;
 	background: #cccccc;
-	background-image:url("image/logo.png");
-	background-repeat:no-repeat-x;
+	background-image:url("image/Background.jpg");
+	background-repeat:repeat-x;
 }
 *
 {

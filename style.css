@@ -35,7 +35,7 @@ width:960px;
 {
 	position:absolute;
 text-align:left;
-color:#9DE3B0;/*Light green for texts top background*/
+color:#d9f4e0;/*Light green for texts top background*/
 font-size:43px;
 color:#FFF;/*White for vertical text*/	
 left:14px;
@@ -47,7 +47,7 @@ top:18px;
 {
 position:absolute;
 text-align:right;
-color:#9DE3B0;/*Light green for texts top background*/
+color:#d9f4e0;/*Light green for texts top background*/
 left:490px;
 top:38px;
 width:400px;
